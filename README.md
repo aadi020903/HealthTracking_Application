@@ -94,17 +94,13 @@ The flow chart outlines the application's structure and how different features a
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/BearerOP/heal-app.git
+    git clone https://github.com/BearerOP/heal-app.git](https://github.com/aadi020903/HealthTracking_Application.git
     ```
-2. Navigate to the project directory:
-    ```sh
-    cd Health-and-Fitness-App
-    ```
-3. Install dependencies:
+2. Install dependencies:
     ```sh
     npm install
     ```
-4. Start the application:
+3. Start the application:
     ```sh
     npm start
     ```
